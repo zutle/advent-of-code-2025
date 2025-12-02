@@ -1,5 +1,7 @@
 use std::fs;
+
 const INPUT_FILE: &'static str = "../input/input_day_01.txt";
+
 fn main() {
     let _ = day1_part_one();
     let _ = day1_part_two();
