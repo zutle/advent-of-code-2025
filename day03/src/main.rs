@@ -74,7 +74,7 @@ fn day3_part_one() -> std::io::Result<()> {
         println!("{}", battery_jolt);
         total_joltage += battery_jolt;
     }
-    println!("total joltage: {}", total_joltage);
+    // println!("total joltage: {}", total_joltage);
     Ok(())
 }
 
